@@ -1,1 +1,1 @@
-# GenAI_Repo
+# github-colab-eldoksh
